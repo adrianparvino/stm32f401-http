@@ -1,5 +1,5 @@
 [package]
-name = "black-pill-http"
+name = "stm32f401-http"
 version = "0.1.0"
 authors = ["Adrian Parvin D. Ouano <me@adrianpar.vin>"]
 edition = "2018"
